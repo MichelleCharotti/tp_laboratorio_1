@@ -16,20 +16,3 @@
 	<ctype.h>
 	"funciones.h"
 
-1496439096 source:c:\users\m.m\documents\github\tp_laboratorio_1\tp_3_cascara\funciones.c
-	<stdio.h>
-	<stdlib.h>
-	<conio.h>
-	<ctype.h>
-	<string.h>
-	"funciones.h"
-
-1496438276 c:\users\m.m\documents\github\tp_laboratorio_1\tp_3_cascara\funciones.h
-
-1496430632 source:c:\users\m.m\documents\github\tp_laboratorio_1\tp_3_cascara\main.c
-	<stdio.h>
-	<stdlib.h>
-	<conio.h>
-	<ctype.h>
-	"funciones.h"
-
